@@ -1,7 +1,9 @@
 /**
      * NUMBER:
      * parseInt (Int:inteiro)
-     * parseFloat(Float:números com casas decimais)
+     * parseFloat - (Float números flutantes: números com casas decimais)
+     * false significa 0
+     * true significa 1
  */
 
     //Conversão de string para número
