@@ -35,7 +35,7 @@
     const n3 = 'Constante'
     Não aceita redeclaração e sob escrita;
     É uma variavel rigida;
-    A CONSTANTE TEM QUE SER DELCARADA ASSIM QUE INICIALIZADA SE NÃO QUEBR;
+    A CONSTANTE TEM QUE SER DECLARADA ASSIM QUE INICIALIZADA SE NÃO QUEBRA;
     É variavel de escoupo*/ 
 
     const name = "Lia"
